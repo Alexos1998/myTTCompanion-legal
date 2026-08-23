@@ -25,5 +25,5 @@ Diese App steht in keiner offiziellen Verbindung zu myTischtennis.de.
 ## Kontakt
 Bei Fragen zum Datenschutz:
   
-Alexander Jeddeloh  
+
 E-Mail: [mytt.companion@gmail.com]
